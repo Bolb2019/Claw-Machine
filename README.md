@@ -1,3 +1,6 @@
+### Note for Horizons
+I know that the claw machine doesn't have a body currently, but this ship is purely intended for the mechanical side of this, everything I wanted to include is, a body and such will be added later :3
+
 # Claw-Machine
 A claw machine me and my friend made using Arduino
 
