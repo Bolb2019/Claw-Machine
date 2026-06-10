@@ -14,5 +14,5 @@
 
 ## Inspo that inspired the design
 The image shown is where most of the 3D models were use (though we did edit them to increase their length and width).
-- [This](https://makerworld.com/en/models/1311490-servo-claw-machine?from=search#profileId-1410903) Maker world upload was where we got our insporations and the base for out CAD files.
+- [This](https://makerworld.com/en/models/1311490-servo-claw-machine?from=search#profileId-1410903) Maker world upload was where we got our insporations and the base for out CAD files. (100% of the code and wiring was done by me (and my friend like a little bit), we only used this for help with the CAD).
 <img width="1068" height="837" alt="1000006961" src="https://github.com/user-attachments/assets/b12d35bc-ddd0-47d7-b68f-4b20d774dbf7" />
